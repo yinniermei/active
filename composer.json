@@ -1,12 +1,14 @@
 {
     "name": "yinniermei/active",
     "description": "The helper for laravel(4-5) applications to get active class base on current route",
+    "keywords": ["Laravel", "Active", "Menu"],
     "authors": [
         {
             "name": "yinniermei",
             "email": "ynem@qq.com"
         }
     ],
+    "type": "library",
     "license": "MIT",
 	"require": {
 		"php": ">=5.5.9",
